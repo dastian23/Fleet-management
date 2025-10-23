@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1743076233 source:c:\users\bente\desktop\working\probleme c++ sau c\floata_auto\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1745859119 source:c:\users\bente\desktop\working\probleme c++ sau c\flota_auto\main.c
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+Honda Civic 4 8.8 galben 1 12.04.2026
+Toyota Supra 5 6.7 portocaliu 1 23.04.2025
+Audi S5 5 7.9 albastru 1 18.05.2025
+Mercedes S-Class 5 6.6 mov 0 N/A
+Mercedes G-Wagon 5 7.9 roz 1 25.06.2025
+Suzuki Vitara 7 6.9 roz 0 N/A
+Ferrai F40 2 10.3 rosu 1 25.08.2026
+Porsche GT3 2 11.4 galben 1 29.09.2027
+BMW M4 5 9.7 rosu 1 12.03.2025
+Skoda Octavia 5 7.5 portocaliu 0 N/A
+BMW X6 5 6.5 albastru 1 25.08.2025
+Mercerdes AMG 5 6.6 mov 0 N/A
+Dacia Logan 1 8.8 rosu 0 N/A

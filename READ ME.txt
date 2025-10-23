@@ -1,0 +1,37 @@
+#Marca (char)-denumeste marca autoturismului
+  ->poate sa contine si cifre si litere
+  ->pot sa fie litere mici si mari
+  ->maxim un cuvant introdus
+
+#Tipul (char)-denumeste tipul autoturismului
+  ->poate sa contine si cifre si litere
+  ->pot sa fie litere mici si mari
+  ->maxim un cuvant introdus
+
+#Numar locuri (int)-denumeste numarul de locuri al autoturismului
+  ->trebuie sa fie numar intreq
+  ->sa nu fie de tip char
+
+#Consumul de combustibil (float)-denumeste consumul de combustibil al autoturismului (L/100KM)
+  ->este un numar real cu o singura zecimala
+  ->accepta ca format: N.N
+
+#Culoarea (char)-denumeste culoarea autoturismului
+  ->contine doar litere mici
+
+#Disponibilitate (int)-denumeste daca autoturismul este rezervat sau nu
+  ->1 inseamna Da este rezervat
+  ->0 inseamna Nu este rezervat
+
+#Data Rezervare (char)-denumeste data rezervarii (MM.DD.YYYY) a autoturismului sau N/A daca nu este rezervat
+  ->accepta doar cifre
+  ->format acceptat : MM.DD.YYYY
+
+
+-----Exemplu Input-----
+Marca:Opel
+Tip:Astra
+Numar locuri:5
+Consum Combustibil:8.8
+Disponibilitate: se face automat
+Data Rezervare: se face automat
